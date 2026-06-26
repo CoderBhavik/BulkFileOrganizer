@@ -24,6 +24,26 @@ def organize_directory(source_directory : pathlib.Path):
             file_name = item.name
 
             print(f"File found = {file_name}, Extension = {file_extension}")
+
+            destination_folder = "Other"
+
+            for category, extension in FILE_TYPE_NAME.items():
+
+                if file_extension in extension:
+
+                    destination_folder = category
+                    break
+            
+            destination_dir = source_directory / destination_folder
+
+            destination_dir.mkdir(parents=True, exist_ok=True)
+
+            
+
+
+
+
+
         
 
 if "__main__" == __name__:
