@@ -40,10 +40,14 @@ def organize_directory(source_directory : pathlib.Path):
             destination_dir.mkdir(parents=True, exist_ok=True)
 
             destination_file_path = destination_dir / file_name
+            
+            try:
+                shutil.move(item, destination_file_path)
+                logging.info(f"Moved: '{item.name}' -> '{destination_file_path}'")
+            
+            except (FileExistsError, PermissionError) as e:
+                logging.error(f"Could not move {file_name}, Error Occured = {e}")
 
-            shutil.move(item, destination_file_path)
-
-    print("All file moved to its correct position.")
 
 if "__main__" == __name__:
 
