@@ -1,7 +1,8 @@
-import pathlib
 import argparse
-import sys
+import logging
+import pathlib
 import shutil
+import sys
 
 FILE_TYPE_NAME = {
     "Images" : ['.jpeg', '.png', '.jpg', '.gif', '.webp', '.avif', '.raw', '.bmp', '.tif', '.tiff', '.svg', '.psd', '.ico'],
@@ -16,7 +17,7 @@ FILE_TYPE_NAME = {
 
 def organize_directory(source_directory : pathlib.Path):
     
-    print("Organizing Directory = ", source_directory)
+    logging.info(f"Organizing Directory = {source_directory}")
 
     for item in source_directory.iterdir():
         
@@ -49,6 +50,15 @@ if "__main__" == __name__:
     parser = argparse.ArgumentParser(description="Organizer")
     parser.add_argument("source_directory", help="Main directory name you want to organize.")
     args = parser.parse_args()
+
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler("organizer.log"),
+            logging.StreamHandler(sys.stdout)
+        ]
+    )
 
     source_path = pathlib.Path(args.source_directory)
 
