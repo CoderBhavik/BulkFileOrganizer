@@ -28,3 +28,15 @@
 2026-06-27 22:50:39,314 - INFO - Moved: 'TItanic_Survived_predictor.ipynb' -> 'E:\FileOrganizerTrial\Programming_Files\TItanic_Survived_predictor.ipynb'
 2026-06-27 22:50:39,315 - INFO - Moved: 'train.csv' -> 'E:\FileOrganizerTrial\Documents\train.csv'
 2026-06-27 22:50:39,316 - INFO - Moved: 'WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg'
+2026-06-28 20:19:24,006 - INFO - Organizing Directory = E:\FileOrganizerTrial
+2026-06-28 20:19:24,008 - WARNING - Conflict : E:\FileOrganizerTrial\Documents\Cleaned_titanic.xls already exist
+2026-06-28 20:19:24,009 - INFO - Moved: 'Cleaned_titanic.xls' -> 'E:\FileOrganizerTrial\Documents\Cleaned_titanic.xls (1).xls'
+2026-06-28 20:19:24,010 - WARNING - Conflict : E:\FileOrganizerTrial\Documents\Titanic-Dataset.xls already exist
+2026-06-28 20:19:24,010 - INFO - Moved: 'Titanic-Dataset.xls' -> 'E:\FileOrganizerTrial\Documents\Titanic-Dataset.xls (1).xls'
+2026-06-28 20:20:03,814 - INFO - Organizing Directory = E:\FileOrganizerTrial
+2026-06-28 20:20:03,816 - WARNING - Conflict : E:\FileOrganizerTrial\Documents\Cleaned_titanic.xls already exist
+2026-06-28 20:20:03,816 - WARNING - Conflict : E:\FileOrganizerTrial\Documents\Cleaned_titanic.xls (1).xls already exist
+2026-06-28 20:20:03,817 - INFO - Moved: 'Cleaned_titanic.xls' -> 'E:\FileOrganizerTrial\Documents\Cleaned_titanic.xls (2).xls'
+2026-06-28 20:20:03,819 - WARNING - Conflict : E:\FileOrganizerTrial\Documents\Titanic-Dataset.xls already exist
+2026-06-28 20:20:03,819 - WARNING - Conflict : E:\FileOrganizerTrial\Documents\Titanic-Dataset.xls (1).xls already exist
+2026-06-28 20:20:03,819 - INFO - Moved: 'Titanic-Dataset.xls' -> 'E:\FileOrganizerTrial\Documents\Titanic-Dataset.xls (2).xls'

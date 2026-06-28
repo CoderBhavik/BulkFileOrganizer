@@ -25,7 +25,6 @@ def organize_directory(source_directory : pathlib.Path):
             file_extension = item.suffix
             file_name = item.name
 
-
             destination_folder = "Other"
 
             for category, extension in FILE_TYPE_NAME.items():
@@ -40,13 +39,28 @@ def organize_directory(source_directory : pathlib.Path):
             destination_dir.mkdir(parents=True, exist_ok=True)
 
             destination_file_path = destination_dir / file_name
+
+            counter = 1
+
+            while destination_file_path.exists():
+
+                logging.warning(f"Conflict : {destination_file_path} already exist")
+
+                new_filename = f"{item.name} ({counter}){item.suffix}"
+
+                destination_file_path = destination_dir / new_filename
+
+                counter += 1
             
             try:
                 shutil.move(item, destination_file_path)
                 logging.info(f"Moved: '{item.name}' -> '{destination_file_path}'")
             
-            except (FileExistsError, PermissionError) as e:
-                logging.error(f"Could not move {file_name}, Error Occured = {e}")
+            except PermissionError as e:
+                logging.error(f"Could not move {file_name}, Error Occurred = {e}")
+            
+            except Exception as e:
+                logging.error(f"An unexcepted error occurred during process error = {e}")
 
 
 if "__main__" == __name__:
