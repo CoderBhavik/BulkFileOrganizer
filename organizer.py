@@ -22,7 +22,9 @@ def organize_directory(source_directory : pathlib.Path, dry_run : bool):
     logging.info(f"Organizing Directory = {source_directory}")
 
     if dry_run:
-        logging.info("[DRY RUN MODE ENABLED] no file be moved")
+        logging.info(" ----DRY RUN MODE ENABLED : no file be moved")
+    else:
+        logging.warning(" ----LIVE MODE ENABLED : File system changes will be made")
 
     file_to_process = [item for item in source_directory.iterdir() if item.is_file()]
 
