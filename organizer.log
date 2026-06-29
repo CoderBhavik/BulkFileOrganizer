@@ -263,3 +263,7 @@
 2026-06-29 21:52:02,147 - INFO - Moved: 'WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (2).jpeg'
 2026-06-29 21:52:02,147 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (1).jpeg already exist
 2026-06-29 21:52:02,148 - INFO - Moved: 'WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (1).jpeg (1).jpeg'
+2026-06-29 22:24:22,562 - INFO - Organizing Directory = E:\FileOrganizerTrial
+2026-06-29 22:24:22,562 - WARNING -  ----LIVE MODE ENABLED : File system changes will be made
+2026-06-29 22:24:36,134 - INFO - Organizing Directory = E:\FileOrganizerTrial
+2026-06-29 22:24:36,134 - INFO -  ----DRY RUN MODE ENABLED : no file be moved

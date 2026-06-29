@@ -13,6 +13,51 @@ def load_config(config_path: pathlib.Path):
     
     return config_data
 
+def process_file(file_path: pathlib.Path, source_directory: pathlib.Path, file_type_map: dict, dry_run: bool):
+    file_extension = file_path.suffix
+    file_name = file_path.name
+
+    destination_folder = "Other"
+
+    for category, extension in file_type_map.items():
+        if file_extension in extension:
+            destination_folder = category
+            break
+    
+    destination_dir = source_directory / destination_folder
+    # If Dry_run is true, we do nothing for now. and our task will be to add logging report to intended here
+    if dry_run:
+
+        destination_file_path = destination_dir / file_name
+        logging.info(f"[DRY RUN] Would move '{file_name}' --> '{destination_file_path}'")
+
+    else:
+        # Else we will do our task as organizer
+        destination_dir.mkdir(parents=True, exist_ok=True)
+        destination_file_path = destination_dir / file_name
+
+        counter = 1
+
+        while destination_file_path.exists():
+
+            logging.warning(f"Conflict : {destination_file_path} already exist")
+            new_filename = f"{file_path.name} ({counter}){file_path.suffix}"
+            destination_file_path = destination_dir / new_filename
+            counter += 1
+
+        try:
+
+            shutil.move(file_path, destination_file_path)
+            logging.info(f"Moved: '{file_path.name}' -> '{destination_file_path}'")
+
+        except PermissionError as e:
+
+            logging.error(f"Could not move {file_name}, Error Occurred = {e}")
+
+        except Exception as e:
+
+            logging.error(f"An unexcepted error occurred during process error = {e}")
+
 def organize_directory(source_directory : pathlib.Path, dry_run : bool, file_type_map: dict):
     
     logging.info(f"Organizing Directory = {source_directory}")
@@ -24,52 +69,8 @@ def organize_directory(source_directory : pathlib.Path, dry_run : bool, file_typ
 
     file_to_process = [item for item in source_directory.iterdir() if item.is_file()]
 
-    for item in tqdm(file_to_process, desc="Organizing Files"):
-        
-        file_extension = item.suffix
-        file_name = item.name
-
-        destination_folder = "Other"
-
-        for category, extension in file_type_name.items():
-            if file_extension in extension:
-                destination_folder = category
-                break
-        
-        destination_dir = source_directory / destination_folder
-
-        # If Dry_run is true, we do nothing for now. and our task will be to add logging report to intended here
-        if dry_run:
-            destination_file_path = destination_dir / file_name
-
-            logging.info(f"[DRY RUN] Would move '{file_name}' --> '{destination_file_path}'")
-        else:
-            # Else we will do our task as organizer
-            destination_dir.mkdir(parents=True, exist_ok=True)
-
-            destination_file_path = destination_dir / file_name
-            counter = 1
-
-            while destination_file_path.exists():
-                logging.warning(f"Conflict : {destination_file_path} already exist")
-
-                new_filename = f"{item.name} ({counter}){item.suffix}"
-
-                destination_file_path = destination_dir / new_filename
-
-                counter += 1
-
-            try:
-                shutil.move(item, destination_file_path)
-
-                logging.info(f"Moved: '{item.name}' -> '{destination_file_path}'")
-
-            except PermissionError as e:
-
-                logging.error(f"Could not move {file_name}, Error Occurred = {e}")
-
-            except Exception as e:
-                logging.error(f"An unexcepted error occurred during process error = {e}")
+    for file_path in tqdm(file_to_process, desc="Organizing Files"):
+        process_file(file_path, source_directory, file_type_map, dry_run)
 
 
 if "__main__" == __name__:
