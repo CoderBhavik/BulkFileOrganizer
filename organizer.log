@@ -45,3 +45,221 @@
 2026-06-28 23:05:46,420 - INFO - Organizing Directory = c:\Users\BHAVIK SUTHAR\Downloads
 2026-06-28 23:06:07,839 - INFO - Organizing Directory = c:\Users\BHAVIK SUTHAR\Downloads
 2026-06-28 23:06:07,839 - INFO - [DRY RUN MODE ENABLED] no file be moved
+2026-06-29 21:51:23,365 - INFO - Organizing Directory = E:\FileOrganizerTrial
+2026-06-29 21:51:23,367 - INFO -  ----DRY RUN MODE ENABLED : no file be moved
+2026-06-29 21:51:23,432 - INFO - [DRY RUN] Would move 'Anaconda3-2025.12-2-Windows-x86_64.exe' --> 'E:\FileOrganizerTrial\Executable_Files\Anaconda3-2025.12-2-Windows-x86_64.exe'
+2026-06-29 21:51:23,432 - INFO - [DRY RUN] Would move 'Anaconda3-2025.12-2-Windows-x86_64.exe (1).exe' --> 'E:\FileOrganizerTrial\Executable_Files\Anaconda3-2025.12-2-Windows-x86_64.exe (1).exe'
+2026-06-29 21:51:23,432 - INFO - [DRY RUN] Would move 'archive (1).zip (1).zip' --> 'E:\FileOrganizerTrial\Archives\archive (1).zip (1).zip'
+2026-06-29 21:51:23,433 - INFO - [DRY RUN] Would move 'archive (1).zip (2).zip' --> 'E:\FileOrganizerTrial\Archives\archive (1).zip (2).zip'
+2026-06-29 21:51:23,433 - INFO - [DRY RUN] Would move 'archive.zip' --> 'E:\FileOrganizerTrial\Archives\archive.zip'
+2026-06-29 21:51:23,433 - INFO - [DRY RUN] Would move 'archive.zip (1).zip' --> 'E:\FileOrganizerTrial\Archives\archive.zip (1).zip'
+2026-06-29 21:51:23,433 - INFO - [DRY RUN] Would move 'archive.zip (2).zip' --> 'E:\FileOrganizerTrial\Archives\archive.zip (2).zip'
+2026-06-29 21:51:23,433 - INFO - [DRY RUN] Would move 'BSL_v10.1.3.zip' --> 'E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip'
+2026-06-29 21:51:23,433 - INFO - [DRY RUN] Would move 'BSL_v10.1.3.zip (1).zip' --> 'E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip (1).zip'
+2026-06-29 21:51:23,434 - INFO - [DRY RUN] Would move 'BSL_v10.1.3.zip (2).zip' --> 'E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip (2).zip'
+2026-06-29 21:51:23,434 - INFO - [DRY RUN] Would move 'Data Preprocessing-20260613T075542Z-3-001.zip' --> 'E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip'
+2026-06-29 21:51:23,434 - INFO - [DRY RUN] Would move 'Data Preprocessing-20260613T075542Z-3-001.zip (1).zip' --> 'E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip (1).zip'
+2026-06-29 21:51:23,434 - INFO - [DRY RUN] Would move 'Data Preprocessing-20260613T075542Z-3-001.zip (2).zip' --> 'E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip (2).zip'
+2026-06-29 21:51:23,434 - INFO - [DRY RUN] Would move 'DATASET1.zip' --> 'E:\FileOrganizerTrial\Archives\DATASET1.zip'
+2026-06-29 21:51:23,434 - INFO - [DRY RUN] Would move 'DATASET1.zip (1).zip' --> 'E:\FileOrganizerTrial\Archives\DATASET1.zip (1).zip'
+2026-06-29 21:51:23,434 - INFO - [DRY RUN] Would move 'DATASET1.zip (2).zip' --> 'E:\FileOrganizerTrial\Archives\DATASET1.zip (2).zip'
+2026-06-29 21:51:23,435 - INFO - [DRY RUN] Would move 'Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg' --> 'E:\FileOrganizerTrial\Images\Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg'
+2026-06-29 21:51:23,435 - INFO - [DRY RUN] Would move 'Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg (1).jpg' --> 'E:\FileOrganizerTrial\Images\Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg (1).jpg'
+2026-06-29 21:51:23,435 - INFO - [DRY RUN] Would move 'fabric-api-0.145.0+26.1.jar' --> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar'
+2026-06-29 21:51:23,435 - INFO - [DRY RUN] Would move 'fabric-api-0.145.0+26.1.jar (1).jar' --> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar (1).jar'
+2026-06-29 21:51:23,435 - INFO - [DRY RUN] Would move 'fabric-api-0.145.0+26.1.jar (2).jar' --> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar (2).jar'
+2026-06-29 21:51:23,435 - INFO - [DRY RUN] Would move 'fabric-api-0.145.4+26.1.2.jar' --> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar'
+2026-06-29 21:51:23,435 - INFO - [DRY RUN] Would move 'fabric-api-0.145.4+26.1.2.jar (1).jar' --> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar (1).jar'
+2026-06-29 21:51:23,435 - INFO - [DRY RUN] Would move 'fabric-api-0.145.4+26.1.2.jar (2).jar' --> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar (2).jar'
+2026-06-29 21:51:23,435 - INFO - [DRY RUN] Would move 'FreshAnimations_v1.10.5.zip' --> 'E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip'
+2026-06-29 21:51:23,437 - INFO - [DRY RUN] Would move 'FreshAnimations_v1.10.5.zip (1).zip' --> 'E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip (1).zip'
+2026-06-29 21:51:23,437 - INFO - [DRY RUN] Would move 'FreshAnimations_v1.10.5.zip (2).zip' --> 'E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip (2).zip'
+2026-06-29 21:51:23,437 - INFO - [DRY RUN] Would move 'nature.webp' --> 'E:\FileOrganizerTrial\Images\nature.webp'
+2026-06-29 21:51:23,437 - INFO - [DRY RUN] Would move 'nature.webp (1).webp' --> 'E:\FileOrganizerTrial\Images\nature.webp (1).webp'
+2026-06-29 21:51:23,437 - INFO - [DRY RUN] Would move 'NewGlowingOres-§6[Border]§r.zip' --> 'E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip'
+2026-06-29 21:51:23,438 - INFO - [DRY RUN] Would move 'NewGlowingOres-§6[Border]§r.zip (1).zip' --> 'E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip (1).zip'
+2026-06-29 21:51:23,438 - INFO - [DRY RUN] Would move 'NewGlowingOres-§6[Border]§r.zip (2).zip' --> 'E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip (2).zip'
+2026-06-29 21:51:23,438 - INFO - [DRY RUN] Would move 'Photo.jpeg' --> 'E:\FileOrganizerTrial\Images\Photo.jpeg'
+2026-06-29 21:51:23,439 - INFO - [DRY RUN] Would move 'Photo.jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\Photo.jpeg (1).jpeg'
+2026-06-29 21:51:23,439 - INFO - [DRY RUN] Would move 'rufus-4.13.exe' --> 'E:\FileOrganizerTrial\Executable_Files\rufus-4.13.exe'
+2026-06-29 21:51:23,439 - INFO - [DRY RUN] Would move 'rufus-4.13.exe (1).exe' --> 'E:\FileOrganizerTrial\Executable_Files\rufus-4.13.exe (1).exe'
+2026-06-29 21:51:23,439 - INFO - [DRY RUN] Would move 'SIG.jpeg' --> 'E:\FileOrganizerTrial\Images\SIG.jpeg'
+2026-06-29 21:51:23,439 - INFO - [DRY RUN] Would move 'SIG.jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\SIG.jpeg (1).jpeg'
+2026-06-29 21:51:23,439 - INFO - [DRY RUN] Would move 'SIGN_BHAVIK.jpeg' --> 'E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg'
+2026-06-29 21:51:23,439 - INFO - [DRY RUN] Would move 'SIGN_BHAVIK.jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg (1).jpeg'
+2026-06-29 21:51:23,440 - INFO - [DRY RUN] Would move 'SIGN_BHAVIK.jpeg (2).jpeg' --> 'E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg (2).jpeg'
+2026-06-29 21:51:23,440 - INFO - [DRY RUN] Would move 'TaskTraker-main.zip' --> 'E:\FileOrganizerTrial\Archives\TaskTraker-main.zip'
+2026-06-29 21:51:23,440 - INFO - [DRY RUN] Would move 'TaskTraker-main.zip (1).zip' --> 'E:\FileOrganizerTrial\Archives\TaskTraker-main.zip (1).zip'
+2026-06-29 21:51:23,440 - INFO - [DRY RUN] Would move 'ved leetcode 50 bagde.png' --> 'E:\FileOrganizerTrial\Images\ved leetcode 50 bagde.png'
+2026-06-29 21:51:23,440 - INFO - [DRY RUN] Would move 'ved leetcode 50 bagde.png (1).png' --> 'E:\FileOrganizerTrial\Images\ved leetcode 50 bagde.png (1).png'
+2026-06-29 21:51:23,440 - INFO - [DRY RUN] Would move 'ved photo.jpeg' --> 'E:\FileOrganizerTrial\Images\ved photo.jpeg'
+2026-06-29 21:51:23,440 - INFO - [DRY RUN] Would move 'ved photo.jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\ved photo.jpeg (1).jpeg'
+2026-06-29 21:51:23,440 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg'
+2026-06-29 21:51:23,441 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg (1).jpeg'
+2026-06-29 21:51:23,441 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg'
+2026-06-29 21:51:23,441 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg (1).jpeg'
+2026-06-29 21:51:23,442 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg'
+2026-06-29 21:51:23,442 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg (1).jpeg'
+2026-06-29 21:51:23,442 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg'
+2026-06-29 21:51:23,442 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (1).jpeg'
+2026-06-29 21:51:23,442 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (2).jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (2).jpeg'
+2026-06-29 21:51:23,442 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg'
+2026-06-29 21:51:23,443 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg (1).jpeg'
+2026-06-29 21:51:23,443 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg'
+2026-06-29 21:51:23,443 - INFO - [DRY RUN] Would move 'WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (1).jpeg' --> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (1).jpeg'
+2026-06-29 21:52:02,051 - INFO - Organizing Directory = E:\FileOrganizerTrial
+2026-06-29 21:52:02,052 - WARNING -  ----LIVE MODE ENABLED : File system changes will be made
+2026-06-29 21:52:02,069 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\Anaconda3-2025.12-2-Windows-x86_64.exe already exist
+2026-06-29 21:52:02,069 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\Anaconda3-2025.12-2-Windows-x86_64.exe (1).exe already exist
+2026-06-29 21:52:02,069 - INFO - Moved: 'Anaconda3-2025.12-2-Windows-x86_64.exe' -> 'E:\FileOrganizerTrial\Executable_Files\Anaconda3-2025.12-2-Windows-x86_64.exe (2).exe'
+2026-06-29 21:52:02,070 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\Anaconda3-2025.12-2-Windows-x86_64.exe (1).exe already exist
+2026-06-29 21:52:02,070 - INFO - Moved: 'Anaconda3-2025.12-2-Windows-x86_64.exe (1).exe' -> 'E:\FileOrganizerTrial\Executable_Files\Anaconda3-2025.12-2-Windows-x86_64.exe (1).exe (1).exe'
+2026-06-29 21:52:02,071 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\archive (1).zip (1).zip already exist
+2026-06-29 21:52:02,071 - INFO - Moved: 'archive (1).zip (1).zip' -> 'E:\FileOrganizerTrial\Archives\archive (1).zip (1).zip (1).zip'
+2026-06-29 21:52:02,073 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\archive (1).zip (2).zip already exist
+2026-06-29 21:52:02,073 - INFO - Moved: 'archive (1).zip (2).zip' -> 'E:\FileOrganizerTrial\Archives\archive (1).zip (2).zip (1).zip'
+2026-06-29 21:52:02,074 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\archive.zip already exist
+2026-06-29 21:52:02,074 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\archive.zip (1).zip already exist
+2026-06-29 21:52:02,074 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\archive.zip (2).zip already exist
+2026-06-29 21:52:02,076 - INFO - Moved: 'archive.zip' -> 'E:\FileOrganizerTrial\Archives\archive.zip (3).zip'
+2026-06-29 21:52:02,077 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\archive.zip (1).zip already exist
+2026-06-29 21:52:02,077 - INFO - Moved: 'archive.zip (1).zip' -> 'E:\FileOrganizerTrial\Archives\archive.zip (1).zip (1).zip'
+2026-06-29 21:52:02,078 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\archive.zip (2).zip already exist
+2026-06-29 21:52:02,078 - INFO - Moved: 'archive.zip (2).zip' -> 'E:\FileOrganizerTrial\Archives\archive.zip (2).zip (1).zip'
+2026-06-29 21:52:02,079 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip already exist
+2026-06-29 21:52:02,079 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip (1).zip already exist
+2026-06-29 21:52:02,079 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip (2).zip already exist
+2026-06-29 21:52:02,080 - INFO - Moved: 'BSL_v10.1.3.zip' -> 'E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip (3).zip'
+2026-06-29 21:52:02,081 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip (1).zip already exist
+2026-06-29 21:52:02,081 - INFO - Moved: 'BSL_v10.1.3.zip (1).zip' -> 'E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip (1).zip (1).zip'
+2026-06-29 21:52:02,082 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip (2).zip already exist
+2026-06-29 21:52:02,082 - INFO - Moved: 'BSL_v10.1.3.zip (2).zip' -> 'E:\FileOrganizerTrial\Archives\BSL_v10.1.3.zip (2).zip (1).zip'
+2026-06-29 21:52:02,083 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip already exist
+2026-06-29 21:52:02,083 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip (1).zip already exist
+2026-06-29 21:52:02,083 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip (2).zip already exist
+2026-06-29 21:52:02,084 - INFO - Moved: 'Data Preprocessing-20260613T075542Z-3-001.zip' -> 'E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip (3).zip'
+2026-06-29 21:52:02,085 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip (1).zip already exist
+2026-06-29 21:52:02,085 - INFO - Moved: 'Data Preprocessing-20260613T075542Z-3-001.zip (1).zip' -> 'E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip (1).zip (1).zip'
+2026-06-29 21:52:02,086 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip (2).zip already exist
+2026-06-29 21:52:02,086 - INFO - Moved: 'Data Preprocessing-20260613T075542Z-3-001.zip (2).zip' -> 'E:\FileOrganizerTrial\Archives\Data Preprocessing-20260613T075542Z-3-001.zip (2).zip (1).zip'
+2026-06-29 21:52:02,087 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\DATASET1.zip already exist
+2026-06-29 21:52:02,087 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\DATASET1.zip (1).zip already exist
+2026-06-29 21:52:02,087 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\DATASET1.zip (2).zip already exist
+2026-06-29 21:52:02,087 - INFO - Moved: 'DATASET1.zip' -> 'E:\FileOrganizerTrial\Archives\DATASET1.zip (3).zip'
+2026-06-29 21:52:02,089 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\DATASET1.zip (1).zip already exist
+2026-06-29 21:52:02,090 - INFO - Moved: 'DATASET1.zip (1).zip' -> 'E:\FileOrganizerTrial\Archives\DATASET1.zip (1).zip (1).zip'
+2026-06-29 21:52:02,090 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\DATASET1.zip (2).zip already exist
+2026-06-29 21:52:02,091 - INFO - Moved: 'DATASET1.zip (2).zip' -> 'E:\FileOrganizerTrial\Archives\DATASET1.zip (2).zip (1).zip'
+2026-06-29 21:52:02,091 - WARNING - Conflict : E:\FileOrganizerTrial\Images\Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg already exist
+2026-06-29 21:52:02,091 - WARNING - Conflict : E:\FileOrganizerTrial\Images\Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg (1).jpg already exist
+2026-06-29 21:52:02,093 - INFO - Moved: 'Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg' -> 'E:\FileOrganizerTrial\Images\Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg (2).jpg'
+2026-06-29 21:52:02,093 - WARNING - Conflict : E:\FileOrganizerTrial\Images\Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg (1).jpg already exist
+2026-06-29 21:52:02,094 - INFO - Moved: 'Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg (1).jpg' -> 'E:\FileOrganizerTrial\Images\Environment-definition-topics-and-biotic-and-abiotic-components-of-nature.jpg (1).jpg (1).jpg'
+2026-06-29 21:52:02,094 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar already exist
+2026-06-29 21:52:02,094 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar (1).jar already exist
+2026-06-29 21:52:02,095 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar (2).jar already exist
+2026-06-29 21:52:02,095 - INFO - Moved: 'fabric-api-0.145.0+26.1.jar' -> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar (3).jar'
+2026-06-29 21:52:02,095 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar (1).jar already exist
+2026-06-29 21:52:02,096 - INFO - Moved: 'fabric-api-0.145.0+26.1.jar (1).jar' -> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar (1).jar (1).jar'
+2026-06-29 21:52:02,096 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar (2).jar already exist
+2026-06-29 21:52:02,096 - INFO - Moved: 'fabric-api-0.145.0+26.1.jar (2).jar' -> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.0+26.1.jar (2).jar (1).jar'
+2026-06-29 21:52:02,098 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar already exist
+2026-06-29 21:52:02,098 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar (1).jar already exist
+2026-06-29 21:52:02,098 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar (2).jar already exist
+2026-06-29 21:52:02,099 - INFO - Moved: 'fabric-api-0.145.4+26.1.2.jar' -> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar (3).jar'
+2026-06-29 21:52:02,099 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar (1).jar already exist
+2026-06-29 21:52:02,100 - INFO - Moved: 'fabric-api-0.145.4+26.1.2.jar (1).jar' -> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar (1).jar (1).jar'
+2026-06-29 21:52:02,100 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar (2).jar already exist
+2026-06-29 21:52:02,101 - INFO - Moved: 'fabric-api-0.145.4+26.1.2.jar (2).jar' -> 'E:\FileOrganizerTrial\Executable_Files\fabric-api-0.145.4+26.1.2.jar (2).jar (1).jar'
+2026-06-29 21:52:02,101 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip already exist
+2026-06-29 21:52:02,101 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip (1).zip already exist
+2026-06-29 21:52:02,102 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip (2).zip already exist
+2026-06-29 21:52:02,102 - INFO - Moved: 'FreshAnimations_v1.10.5.zip' -> 'E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip (3).zip'
+2026-06-29 21:52:02,103 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip (1).zip already exist
+2026-06-29 21:52:02,103 - INFO - Moved: 'FreshAnimations_v1.10.5.zip (1).zip' -> 'E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip (1).zip (1).zip'
+2026-06-29 21:52:02,104 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip (2).zip already exist
+2026-06-29 21:52:02,104 - INFO - Moved: 'FreshAnimations_v1.10.5.zip (2).zip' -> 'E:\FileOrganizerTrial\Archives\FreshAnimations_v1.10.5.zip (2).zip (1).zip'
+2026-06-29 21:52:02,105 - WARNING - Conflict : E:\FileOrganizerTrial\Images\nature.webp already exist
+2026-06-29 21:52:02,105 - WARNING - Conflict : E:\FileOrganizerTrial\Images\nature.webp (1).webp already exist
+2026-06-29 21:52:02,106 - INFO - Moved: 'nature.webp' -> 'E:\FileOrganizerTrial\Images\nature.webp (2).webp'
+2026-06-29 21:52:02,106 - WARNING - Conflict : E:\FileOrganizerTrial\Images\nature.webp (1).webp already exist
+2026-06-29 21:52:02,107 - INFO - Moved: 'nature.webp (1).webp' -> 'E:\FileOrganizerTrial\Images\nature.webp (1).webp (1).webp'
+2026-06-29 21:52:02,107 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip already exist
+2026-06-29 21:52:02,107 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip (1).zip already exist
+2026-06-29 21:52:02,108 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip (2).zip already exist
+2026-06-29 21:52:02,108 - INFO - Moved: 'NewGlowingOres-§6[Border]§r.zip' -> 'E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip (3).zip'
+2026-06-29 21:52:02,109 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip (1).zip already exist
+2026-06-29 21:52:02,109 - INFO - Moved: 'NewGlowingOres-§6[Border]§r.zip (1).zip' -> 'E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip (1).zip (1).zip'
+2026-06-29 21:52:02,110 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip (2).zip already exist
+2026-06-29 21:52:02,111 - INFO - Moved: 'NewGlowingOres-§6[Border]§r.zip (2).zip' -> 'E:\FileOrganizerTrial\Archives\NewGlowingOres-§6[Border]§r.zip (2).zip (1).zip'
+2026-06-29 21:52:02,111 - WARNING - Conflict : E:\FileOrganizerTrial\Images\Photo.jpeg already exist
+2026-06-29 21:52:02,111 - WARNING - Conflict : E:\FileOrganizerTrial\Images\Photo.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,112 - INFO - Moved: 'Photo.jpeg' -> 'E:\FileOrganizerTrial\Images\Photo.jpeg (2).jpeg'
+2026-06-29 21:52:02,112 - WARNING - Conflict : E:\FileOrganizerTrial\Images\Photo.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,114 - INFO - Moved: 'Photo.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\Photo.jpeg (1).jpeg (1).jpeg'
+2026-06-29 21:52:02,114 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\rufus-4.13.exe already exist
+2026-06-29 21:52:02,114 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\rufus-4.13.exe (1).exe already exist
+2026-06-29 21:52:02,115 - INFO - Moved: 'rufus-4.13.exe' -> 'E:\FileOrganizerTrial\Executable_Files\rufus-4.13.exe (2).exe'
+2026-06-29 21:52:02,115 - WARNING - Conflict : E:\FileOrganizerTrial\Executable_Files\rufus-4.13.exe (1).exe already exist
+2026-06-29 21:52:02,116 - INFO - Moved: 'rufus-4.13.exe (1).exe' -> 'E:\FileOrganizerTrial\Executable_Files\rufus-4.13.exe (1).exe (1).exe'
+2026-06-29 21:52:02,116 - WARNING - Conflict : E:\FileOrganizerTrial\Images\SIG.jpeg already exist
+2026-06-29 21:52:02,116 - WARNING - Conflict : E:\FileOrganizerTrial\Images\SIG.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,117 - INFO - Moved: 'SIG.jpeg' -> 'E:\FileOrganizerTrial\Images\SIG.jpeg (2).jpeg'
+2026-06-29 21:52:02,117 - WARNING - Conflict : E:\FileOrganizerTrial\Images\SIG.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,118 - INFO - Moved: 'SIG.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\SIG.jpeg (1).jpeg (1).jpeg'
+2026-06-29 21:52:02,118 - WARNING - Conflict : E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg already exist
+2026-06-29 21:52:02,118 - WARNING - Conflict : E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,119 - WARNING - Conflict : E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg (2).jpeg already exist
+2026-06-29 21:52:02,119 - INFO - Moved: 'SIGN_BHAVIK.jpeg' -> 'E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg (3).jpeg'
+2026-06-29 21:52:02,121 - WARNING - Conflict : E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,121 - INFO - Moved: 'SIGN_BHAVIK.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg (1).jpeg (1).jpeg'
+2026-06-29 21:52:02,121 - WARNING - Conflict : E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg (2).jpeg already exist
+2026-06-29 21:52:02,122 - INFO - Moved: 'SIGN_BHAVIK.jpeg (2).jpeg' -> 'E:\FileOrganizerTrial\Images\SIGN_BHAVIK.jpeg (2).jpeg (1).jpeg'
+2026-06-29 21:52:02,123 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\TaskTraker-main.zip already exist
+2026-06-29 21:52:02,123 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\TaskTraker-main.zip (1).zip already exist
+2026-06-29 21:52:02,124 - INFO - Moved: 'TaskTraker-main.zip' -> 'E:\FileOrganizerTrial\Archives\TaskTraker-main.zip (2).zip'
+2026-06-29 21:52:02,125 - WARNING - Conflict : E:\FileOrganizerTrial\Archives\TaskTraker-main.zip (1).zip already exist
+2026-06-29 21:52:02,125 - INFO - Moved: 'TaskTraker-main.zip (1).zip' -> 'E:\FileOrganizerTrial\Archives\TaskTraker-main.zip (1).zip (1).zip'
+2026-06-29 21:52:02,126 - WARNING - Conflict : E:\FileOrganizerTrial\Images\ved leetcode 50 bagde.png already exist
+2026-06-29 21:52:02,126 - WARNING - Conflict : E:\FileOrganizerTrial\Images\ved leetcode 50 bagde.png (1).png already exist
+2026-06-29 21:52:02,127 - INFO - Moved: 'ved leetcode 50 bagde.png' -> 'E:\FileOrganizerTrial\Images\ved leetcode 50 bagde.png (2).png'
+2026-06-29 21:52:02,127 - WARNING - Conflict : E:\FileOrganizerTrial\Images\ved leetcode 50 bagde.png (1).png already exist
+2026-06-29 21:52:02,128 - INFO - Moved: 'ved leetcode 50 bagde.png (1).png' -> 'E:\FileOrganizerTrial\Images\ved leetcode 50 bagde.png (1).png (1).png'
+2026-06-29 21:52:02,128 - WARNING - Conflict : E:\FileOrganizerTrial\Images\ved photo.jpeg already exist
+2026-06-29 21:52:02,128 - WARNING - Conflict : E:\FileOrganizerTrial\Images\ved photo.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,129 - INFO - Moved: 'ved photo.jpeg' -> 'E:\FileOrganizerTrial\Images\ved photo.jpeg (2).jpeg'
+2026-06-29 21:52:02,129 - WARNING - Conflict : E:\FileOrganizerTrial\Images\ved photo.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,131 - INFO - Moved: 'ved photo.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\ved photo.jpeg (1).jpeg (1).jpeg'
+2026-06-29 21:52:02,131 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg already exist
+2026-06-29 21:52:02,131 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,132 - INFO - Moved: 'WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg (2).jpeg'
+2026-06-29 21:52:02,132 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,132 - INFO - Moved: 'WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.35 PM.jpeg (1).jpeg (1).jpeg'
+2026-06-29 21:52:02,133 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg already exist
+2026-06-29 21:52:02,133 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg (1).jpeg already exist
+2026-06-29 21:52:02,134 - INFO - Moved: 'WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg (2).jpeg'
+2026-06-29 21:52:02,134 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg (1).jpeg already exist
+2026-06-29 21:52:02,135 - INFO - Moved: 'WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM (1).jpeg (1).jpeg (1).jpeg'
+2026-06-29 21:52:02,136 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg already exist
+2026-06-29 21:52:02,136 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,136 - INFO - Moved: 'WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg (2).jpeg'
+2026-06-29 21:52:02,137 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,137 - INFO - Moved: 'WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-03-29 at 1.22.36 PM.jpeg (1).jpeg (1).jpeg'
+2026-06-29 21:52:02,138 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg already exist
+2026-06-29 21:52:02,138 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,138 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (2).jpeg already exist
+2026-06-29 21:52:02,140 - INFO - Moved: 'WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (3).jpeg'
+2026-06-29 21:52:02,141 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,142 - INFO - Moved: 'WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (1).jpeg (1).jpeg'
+2026-06-29 21:52:02,142 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (2).jpeg already exist
+2026-06-29 21:52:02,143 - INFO - Moved: 'WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (2).jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-01 at 8.14.30 PM.jpeg (2).jpeg (1).jpeg'
+2026-06-29 21:52:02,143 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg already exist
+2026-06-29 21:52:02,143 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,144 - INFO - Moved: 'WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg (2).jpeg'
+2026-06-29 21:52:02,144 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,146 - INFO - Moved: 'WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.40 PM.jpeg (1).jpeg (1).jpeg'
+2026-06-29 21:52:02,146 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg already exist
+2026-06-29 21:52:02,146 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,147 - INFO - Moved: 'WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (2).jpeg'
+2026-06-29 21:52:02,147 - WARNING - Conflict : E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (1).jpeg already exist
+2026-06-29 21:52:02,148 - INFO - Moved: 'WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (1).jpeg' -> 'E:\FileOrganizerTrial\Images\WhatsApp Image 2026-04-07 at 2.42.41 PM.jpeg (1).jpeg (1).jpeg'
